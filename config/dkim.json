@@ -1,0 +1,6 @@
+{
+    "zimoe.com": {
+        "keySelector": "2023",
+        "privateKeyPath": "./config/2023._domainkey.zimoe.com.pem"
+    }
+}

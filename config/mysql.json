@@ -1,0 +1,7 @@
+{
+    "host": "",
+    "user": "mail",
+    "password": "",
+    "database": "mail",
+    "timezone": "+08:00"
+}
